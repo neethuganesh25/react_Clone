@@ -1,0 +1,33 @@
+.custom-page {
+    background-color: #f8f9fa;
+    padding: 20px;
+  }
+  
+  .custom-page img {
+    border-radius: 50%;
+  }
+  
+  .third-section {
+    background-color: #e9ecef;
+  }
+  
+  .Fourth-section img {
+    border-radius: 10px;
+  }
+  
+  .position-relative {
+    position: relative;
+  }
+  
+  .position-absolute {
+    position: absolute;
+  }
+  
+  .text-light {
+    color: #fff;
+  }
+  
+  .text-center {
+    text-align: center;
+  }
+  

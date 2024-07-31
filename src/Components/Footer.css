@@ -1,0 +1,37 @@
+
+
+  .footer {
+    background-color: rgb(16, 64, 16);  
+    color: white;
+    padding: 20px 0;
+  }
+  
+  .footer h4 {
+    margin-bottom: 15px;
+  }
+  
+  .footer ul {
+    padding: 0;
+    list-style: none;
+  }
+  
+  .footer li {
+    margin-bottom: 5px;
+  }
+  
+  .footer .btn-light {
+    color: black;
+    background-color: #fff;
+    border-color: #ddd;
+  }
+  
+  .footer .btn-light:hover {
+    background-color: #e6e6e6;
+    border-color: #ccc;
+  }
+  
+  .footer .list-unstyled.d-flex li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  

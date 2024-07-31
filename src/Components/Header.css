@@ -1,0 +1,26 @@
+.navbar-brand {
+    display: flex;
+    align-items: center;
+  }
+  
+  .navbar-brand img {
+    margin-right: 10px;
+  }
+  .search-bar {
+    position: relative;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    border-radius: 15%;
+  }
+  
+  .search-bar input {
+    padding-right: 30px; /* Add padding to the right for the icon */
+  }
+  
+  .search-icon {
+    position: absolute;
+    left: 10px;
+    cursor: pointer;
+  }
+    

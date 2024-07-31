@@ -1,0 +1,19 @@
+.home-container {
+    background-color:rgb(16, 64, 16);
+    height: 10vh;
+    padding: 0 15px;
+  }
+  
+  .home-container p {
+    margin: 0;
+    color: white;
+  }
+  
+  .custom {
+    background-color: #dbecec;
+    border-radius: 8px; 
+    width: 100%; 
+    max-width: 600px; 
+    height: 5%;
+  }
+  
